@@ -1,9 +1,0 @@
-[_]
-schema-version = "0.2"
-id = "com.spiria.test-pack"
-name = "Test pack build"
-version = "1.0.0"
-
-[[io.buildpacks.build.env]]
-name='BPE_HELLO'
-value='HELLO WORLD'
